@@ -7,6 +7,7 @@ import Footer from "../components/Footer.tsx";
 export const metadata: Metadata = {
 	title: "Disorganization Org",
 	description: "Where did I leave my ./src/app/page.tsx?",
+	icons: { icon: "/favicon.ico", },
 };
 
 const geistSans = Geist({
