@@ -22,6 +22,16 @@ export default function Home() {
 		 alt="Sample"
 	       />
 	      </Link>
+	      <Link
+	       href="/services/news/articles/2026-10-07-Political"
+	      >
+	       <Image
+	        src="/20261007politicalicon.png"
+		width={200}
+		height={200}
+		alt="Sample"
+	       />
+	      </Link>
 	     </div>
 	   </main>
 	 </div>

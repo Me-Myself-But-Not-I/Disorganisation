@@ -1,10 +1,9 @@
-import Link from "next/link";
 import Image from "next/image";
 
 export default function Home() {
 	return (
 		<div className="flex min-h-screen flex-col items-left justify-center bg-zinc-50  font-sans dark:bg-black">
-		  <main className="flex w-full max-w-2xl flex-col items-center justify-between bg-white px-16 py-16 dark:bg-black sm:items-start">
+		  <main className="flex w-full max-w-2xl flex-col items-center justify-between bg-white px-16 py-2 dark:bg-black sm:items-start">
 		    <div className="flex flex-col items-center gap-1 text-center sm:items-start sm:text-left">
 		    <Image 
 		     src="/samplebanner.png"
