@@ -19,7 +19,11 @@ export default function Home() {
 		    <br / > <br / >
 	    Nebuchadnezzar II lead the Babylonian army towards Carchemish, where they encountered the Egyptian army, who, reportedly, withdrew from combat. To prevent such dishonourable escape the Babylonian army caught, and defeated the remaining Egyptians in the Battle of Hamath.
 		    <br / > <br / >
-	    This battle give the Babylonians and Medians control over the city, which may provide great increases in trade access to the Babylonians and Medians.
+	    This battle give the Babylonians and Medians control over the city, which may provide great increases in trade access and probably bragging rights to the Babylonians and Medians.
+		    <br / > <br / >
+	    This likely caused such negative mental and physical health impacts within the egyptians and assyrians as death. The Babylonians and Medians received major increase in bragging rights, atleast a couple bucks, maybe a sword or something like that probably.
+		    <br / > <br / > 
+	    And that concludes our political report for 2026-10-07.
 	   </p>
 	  </div>
 	 </main>
