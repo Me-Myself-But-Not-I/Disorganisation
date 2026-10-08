@@ -12,6 +12,7 @@ export default function Home() {
 	       <p>
 	        This is a list of all articles we provide, just click on the image to navigate to the article.
 	       </p>
+	       <div className="flex item-center gap-1">
 	       <Link
 	        href="/services/news/articles/sample"
 	       >
@@ -20,6 +21,16 @@ export default function Home() {
 		 width={200}
 		 height={200}
 		 alt="Sample"
+	       />
+	      </Link>
+	      <Link
+	       href="/services/news/articles/2026-10-08-Science"
+	      >
+	       <Image
+	        src="/20261008scienceicon.png"
+		width={200}
+		height={200}
+		alt="Nobel-Chem-2026"
 	       />
 	      </Link>
 	      <Link
@@ -32,6 +43,8 @@ export default function Home() {
 		alt="OpenAI/AusGov"
 	      />
 	      </Link>
+	      </div>
+	      <div className="flex item-center gap-1">
 	      <Link
 	       href="/services/news/articles/2026-10-07-Political"
 	      >
@@ -42,6 +55,7 @@ export default function Home() {
 		alt="Sample"
 	       />
 	      </Link>
+	      </div>
 	     </div>
 	   </main>
 	 </div>
