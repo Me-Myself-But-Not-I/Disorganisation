@@ -23,6 +23,16 @@ export default function Home() {
 	       />
 	      </Link>
 	      <Link
+	       href="/services/news/articles/2026-10-08-Political"
+	      >
+	       <Image
+	        src="/20261008politicalicon.png"
+		width={200}
+		height={200}
+		alt="OpenAI/AusGov"
+	      />
+	      </Link>
+	      <Link
 	       href="/services/news/articles/2026-10-07-Political"
 	      >
 	       <Image
