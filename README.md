@@ -7,5 +7,8 @@ Satirical news about politics, history, economics, and more.
 - Vim
 - Github
 - CloudFlare
-## Other tools
+- MongoDB
+## Other tools and Sources
 - Hackatime
+- Geeksforgeeks
+- Next.js Docs
