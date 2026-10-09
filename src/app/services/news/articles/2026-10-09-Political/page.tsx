@@ -2,16 +2,16 @@ import Image from "next/image"
 
 export default function Home() {
 	return (
-	   <div className="flex min-h-screen flex-col items-center justify-center bg-zinc-50 font-sans dark:bg-black">
+	   <div className="flex min-h-screen flex-col items-center justify-center font-sans bg-black">
 	    <Image
 	     src="/20261009politicalbanner.png"
 	     height={400}
 	     width={2000}
 	     alt="image"
 	     / >
-	     <main className="flex w-full max-w-2xl flex-col items-center justify-between bg-black px-22 py-2 dark:bg-black sm:items-start">
+	     <main className="flex w-full max-w-2xl flex-col items-center justify-between px-22 py-2 bg-black sm:items-start">
 	      <div className="flex flex-col items-center gap-1 text-center sm:items-start sm:text-left">
-	       <h1 className="max-w-xs text-3xl font-bold leading-10 tracking-tight text-black dark:text-zinc-50">
+	       <h1 className="max-w-xs text-3xl font-bold leading-10 tracking-tight text-zinc-50">
 	        US set to do their first public execution in over a century, on a livestream
 	       </h1>
 	        <p> 
