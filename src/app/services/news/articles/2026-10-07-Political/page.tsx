@@ -2,15 +2,15 @@ import Image from "next/image";
 
 export default function Home() {
     return(
-	<div className="flex min-h-screen flex-col items-left justify-center bg-zinc-50 font-sans dark:bg-black">
-	 <main className="flex w-full max-w-2xl flex-col items-center justify-between bg-black px-16 py-2 dark:bg-black sm:items-start">
+	<div className="flex min-h-screen flex-col items-center justify-center bg-zinc-50 font-sans dark:bg-black">
+	 <Image
+            src="/20261007politicalbanner.png"
+            height={400}
+            width={2000}
+            alt="image"
+           / >
+	 <main className="flex w-full max-w-2xl flex-col items-center justify-between bg-black px-22 py-2 dark:bg-black sm:items-start">
 	  <div className="flex flex-col items-center gap-1 text-center sm:items-start sm:text-left">
-	   <Image
-	    src="/20261007politicalbanner.png"
-	    height={400}
-	    width={2000}
-	    alt="image"
-	   / >
 	   <h1 className="max-w-xs text-3xl font-bold leading-10 tracking-tight text-black dark:text-zinc-50">
 	    Neo-Babylonian Empire emerges victorius from the Battle of Carchemish
 	   </h1>
