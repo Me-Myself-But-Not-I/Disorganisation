@@ -28,7 +28,7 @@ export default function Home() {
 		A majority of sites, such as YouTube or Twitch, would not allow such events to be streamed there, especially planned as a stream only for that event.
 		They have the possibility of adding live streams to Truth social, but that would have the issue of adding livestreams, which would allow people say or do things without Donald's approval, such as supporting socialism, good working conditions, fair wages, rights for minorities, or, worst of all, kindness.
 		<br / > <br / >
-		From the Disorganisation Organisation we have 3 desires for this livestream: Vtubers, specifically Pete and Donald speaking with Vtuber avatars; one of those sub bars with a sub goal for the strea; and, either before or after the execution, Pete and Donald playing a first person shooter like Call of Duty or Battlefield.
+		From the Disorganisation Organisation we have 3 desires for this livestream: Vtubers, specifically Pete and Donald speaking with Vtuber avatars; one of those sub bars with a sub goal for the stream; and, either before or after the execution, Pete and Donald playing a first person shooter like Call of Duty or Battlefield.
 		<br / > <br / >
 		And that concludes our political report for 2026-10-09.</p>
 	      </div>
