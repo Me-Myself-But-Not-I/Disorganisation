@@ -9,6 +9,7 @@ export default function ContactForm() {
     const [error, setError] = useState(null);
     const [success, setSuccess] = useState(false);
 
+    function handleSubmit(e: FormEvent<HTMLFormElement>) {}
     const handleSubmit = async (e) => {
         e.preventDefault();
 
