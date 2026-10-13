@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer>
-      <p>[Add text here before publishing]</p>
+      <p>[Add spooky text here before publishing]</p>
     </footer>
   );
 }
