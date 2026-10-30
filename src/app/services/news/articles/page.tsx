@@ -24,6 +24,16 @@ export default function Home() {
 	       />
 	      </Link>
 	      <Link
+	       href="/services/news/articles/2026-10-30-Political"
+	      >
+	       <Image
+	        src="/20261030politicalicon.png"
+		width={200}
+		height={200}
+		alt="Ewwwww Fr*nch"
+	       / >
+	       </Link>
+	      <Link
 	       href="/services/news/articles/2026-10-09-Political"
 	      >
 	       <Image
@@ -33,6 +43,8 @@ export default function Home() {
 		alt="US Public execution"
 		/>
 	      </Link>
+	      </div>
+	      <div className="flex item-center gap-1">
 	      <Link
 	       href="/services/news/articles/2026-10-08-Science"
 	      >
@@ -43,8 +55,6 @@ export default function Home() {
 		alt="Nobel-Chem-2026"
 	       />
 	      </Link>
-	      </div>
-              <div className="flex item-center gap-1">
 	      <Link
 	       href="/services/news/articles/2026-10-08-Political"
 	      >
