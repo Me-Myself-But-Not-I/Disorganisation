@@ -6,10 +6,10 @@ export default function Header() {
     <header className="flex flex-col items-left gap-2 font-sans text-center sm:items-start sm:text-left">
      <Link href="/" className="flex item-center gap-1"> 
      <Image
-       src="/logohw.png"
+       src="/logo.png"
        width={80}
        height={80}
-       alt="Spooky orange halloween Logo"
+       alt="Logo"
        className="py-2"
        />
       <h1 className="max-w-xs text-3xl font-semibold leading-7 tracking-tight text-zinc-50 px-4 py-5">Disorganisation Organisation(Spooky halloween edition)</h1> 
