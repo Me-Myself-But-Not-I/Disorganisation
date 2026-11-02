@@ -12,7 +12,7 @@ export default function Header() {
        alt="Logo"
        className="py-2"
        />
-      <h1 className="max-w-xs text-3xl font-semibold leading-7 tracking-tight text-zinc-50 px-4 py-5">Disorganisation Organisation</h1> 
+      <h1 className="max-w-xs text-3xl font-semibold leading-7 tracking-tight text-zinc-50 px-4 py-5"><Disorganisation Organisation</h1> 
   </Link>  
       <nav className="py-0">
         <a href="/about" className="text-xl px-16">About</a>
